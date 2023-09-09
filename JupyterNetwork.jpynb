@@ -1,0 +1,32 @@
+pip install jupyterlab
+from matplotlib import pvplot as plt
+from mpl_ toolkits.mplot3d import Axes3D
+import numov as no
+from SCioV import integrate
+def solve lorenz (sigma=10.0, beta=8./3, rho=28.0:
+"Plot a solution to theorenz ditterential
+equations
+max time = 4.0
+N= 30
+fig = plt. figure()
+ax = fig.add _axes((0, 0, 1, 1], projection='3d')
+ax.axis('off')
+
+from matplotlib import pvplot as plt
+2 from mpl_ toolkits.mplot3d import Axes3D
+3 import numov as no
+from SCioV import integrate
+def
+solve lorenz (sigma=10.0, beta=8./3, rho=28.0:
+"Plot a solution to theorenz ditterential
+equations
+max time = 4.0
+10
+11
+12
+13
+14
+N=
+fig = plt. figure()
+ax = fig.add _axes((0, 0, 1, 1], projection='3d')
+ax.axis('off)
